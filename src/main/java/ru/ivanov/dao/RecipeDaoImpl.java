@@ -37,7 +37,6 @@ public class RecipeDaoImpl implements RecipeDao {
     }
 
 
-
     @Override
     @Transactional
     public void removeRecipe(String nameRecipe) {
