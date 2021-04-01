@@ -7,6 +7,8 @@ import java.io.Serializable;
 import java.util.Arrays;
 import org.springframework.data.annotation.AccessType;
 
+
+
 @Entity
 @AccessType(AccessType.Type.FIELD)
 @Data

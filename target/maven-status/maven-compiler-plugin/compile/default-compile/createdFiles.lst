@@ -1,0 +1,7 @@
+ru\ivanov\repository\BaseRecipeRepository.class
+ru\ivanov\dao\RecipeDaoImpl.class
+ru\ivanov\dao\RecipeDao.class
+ru\ivanov\repository\IngredientRepository.class
+ru\ivanov\models\Recipe.class
+ru\ivanov\models\Ingredient.class
+ru\ivanov\Runner.class
